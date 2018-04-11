@@ -4,7 +4,7 @@ import java.util.Scanner;
 public class Demo01 {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);//创建Scanner对象
-        System.out.println("请输入成绩:");
+        System.out.print("请输入成绩:");
         int score = input.nextInt();
         int count = 0;
         System.out.println("加分前的成绩:" + score);

@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bd11c2d9-64eb-4749-aa03-d4b603f71eea" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/javaproject/com/test/Demo01.class" afterPath="$PROJECT_DIR$/out/production/javaproject/com/test/Demo01.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/test/Demo01.java" afterPath="$PROJECT_DIR$/src/com/test/Demo01.java" />
     </list>
@@ -19,8 +19,8 @@
       <file leaf-file-name="Demo01.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/test/Demo01.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="19">
-              <caret line="1" column="24" lean-forward="false" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="24" />
+            <state relative-caret-position="76">
+              <caret line="4" column="44" lean-forward="true" selection-start-line="4" selection-start-column="44" selection-end-line="4" selection-end-column="44" />
               <folding />
             </state>
           </provider>
@@ -237,12 +237,20 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1523460671955</updated>
-      <workItem from="1523460675994" duration="1221000" />
+      <workItem from="1523460675994" duration="1306000" />
     </task>
+    <task id="LOCAL-00001" summary="java.util.Scanner">
+      <created>1523461935977</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1523461935978</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1221000" />
+    <option name="totallyTimeSpent" value="1306000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -283,6 +291,10 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="java.util.Scanner" />
+    <option name="LAST_COMMIT_MESSAGE" value="java.util.Scanner" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
@@ -298,8 +310,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/test/Demo01.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="1" column="24" lean-forward="false" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="24" />
+        <state relative-caret-position="76">
+          <caret line="4" column="44" lean-forward="true" selection-start-line="4" selection-start-column="44" selection-end-line="4" selection-end-column="44" />
           <folding />
         </state>
       </provider>
