@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bd11c2d9-64eb-4749-aa03-d4b603f71eea" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -235,7 +236,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1523460671955</updated>
-      <workItem from="1523460675994" duration="1452000" />
+      <workItem from="1523460675994" duration="1484000" />
     </task>
     <task id="LOCAL-00001" summary="java.util.Scanner">
       <created>1523461935977</created>
@@ -251,11 +252,18 @@
       <option name="project" value="LOCAL" />
       <updated>1523462016819</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="gitignore">
+      <created>1523462155793</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1523462155793</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1452000" />
+    <option name="totallyTimeSpent" value="1484000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -298,7 +306,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="java.util.Scanner" />
     <MESSAGE value="println print" />
-    <option name="LAST_COMMIT_MESSAGE" value="println print" />
+    <MESSAGE value="gitignore" />
+    <option name="LAST_COMMIT_MESSAGE" value="gitignore" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
