@@ -10,6 +10,7 @@ public class InitTelephone {
         phone.screen = 1.4f;
         phone.cpu = 2.5f;
         phone.mem = 4.6f;
+        phone.call();
         phone.sendMessage();
     }
 }
