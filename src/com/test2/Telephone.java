@@ -9,8 +9,13 @@ public class Telephone {
     public float getScreen() {
         return screen;
     }
+    public void sendMessage() {
+        System.out.println("发送消息");
+    }
     public void setScreen(float newScreen) {
-        screen = newScreen;
+        //this.关键字
+        this.screen = newScreen;
+        this.sendMessage();
     }
     //无参的构造方法
     public Telephone() {
