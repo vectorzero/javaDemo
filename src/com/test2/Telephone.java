@@ -4,6 +4,14 @@ public class Telephone {
     private float screen;
     private float cpu;
     private float mem;
+    //面向对象--封装 private
+    //getter/setter方法
+    public float getScreen() {
+        return screen;
+    }
+    public void setScreen(float newScreen) {
+        screen = newScreen;
+    }
     //无参的构造方法
     public Telephone() {
         System.out.println("无参的构造方法执行了");
