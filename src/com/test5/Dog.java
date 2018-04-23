@@ -20,4 +20,9 @@ public class Dog extends Animal {
         //调用父类的方法
         super.eat();
     }
+    //可以通过重写toString()方法输出对象的属性
+    @Override
+    public String toString() {
+        return "Dog[age="+age+"]";
+    }
 }

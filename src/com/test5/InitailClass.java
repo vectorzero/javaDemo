@@ -9,5 +9,9 @@ public class InitailClass {
         dog.name = "旺财";
         dog.eat();
         dog.method();
+        // 继承Object类
+        // 返回对象的哈希code码(对象地址字符串)
+        // 如果直接输出对象，就会执行toString()方法
+        System.out.println(dog);
     }
 }
