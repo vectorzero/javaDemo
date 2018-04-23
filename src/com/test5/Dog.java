@@ -25,4 +25,19 @@ public class Dog extends Animal {
     public String toString() {
         return "Dog[age="+age+"]";
     }
+    //可以通过重写equals()方法比较他们的值是否一致
+    @Override
+    public boolean equals(Object obj) {
+        if(this == obj)
+          return true;
+        if(obj == null)
+          return false;
+        if(getClass() != obj.getClass())
+          //判断两个对象的类型是否相同
+          return false;
+        Dog other = (Dog)obj;
+        if(age != other.age)
+            return false;
+        return true;
+    }
 }
