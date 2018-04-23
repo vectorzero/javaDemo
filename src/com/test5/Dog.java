@@ -4,6 +4,8 @@ public class Dog extends Animal {
     public int age = 16;
     //-》初始化父类再初始化子类
     public Dog() {
+        //隐式地调用super(必须在第一行)
+        //super();
         System.out.println("Dog类执行了");
     }
     //方法的重写
