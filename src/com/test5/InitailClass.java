@@ -6,8 +6,8 @@ public class InitailClass {
         Animal animal = new Animal();
         System.out.println("Animal的age:"+animal.age);
         Dog dog = new Dog();
-        dog.age = 18;
         dog.name = "旺财";
         dog.eat();
+        dog.method();
     }
 }

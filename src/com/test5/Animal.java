@@ -10,6 +10,6 @@ public class Animal {
     public Animal() {
         System.out.println("Animal类执行了");
         //先执行初始化对象的属性再执行构造方法中的初始化-》
-        age = 20;
+        //age = 20;
     }
 }
